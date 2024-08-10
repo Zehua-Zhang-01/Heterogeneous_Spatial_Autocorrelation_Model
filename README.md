@@ -5,6 +5,6 @@ Traditional Spatial Autoregressive (SAR) Processes: The geospatial concept is sh
 
 We have R codes for (1) Data generation process of SAR with a consideration of heterogeneous spatial autocorrelation; and (2) Maximum Likelihood Estimation for beta values once patterns of heterogeneous autocorrelation are captured (categorized). Change point detection (Python code) for spotting structures with heterogeneous autocorrelation strength is identical with those displayed in 'Robust Geographical Detector'. 
 
-To be submitted to International Journal of Geographical Information Science.
+Accepted by International Journal of Geographical Information Science (IJGIS).
 
 
