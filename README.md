@@ -1,4 +1,4 @@
-# SAR_Varied_Process
+# Heterogeneous spatial autocorrelation model (HSAM)
 Variations in spatial autocorrelation strength considered in the SAR processes.
 
 Traditional Spatial Autoregressive (SAR) Processes: The geospatial concept is shown in the 'spatially lagged term'. The spatially lagged term is composed of: (1) spatial autocorrelation strength; (2) spatial weights matrix; and (3) a matrix of spatial variables. However, traditional SAR models assume that spatial autocorrelation strength is constant over the space, which might not be effective in modelling real-world scenarios. An improved SAR process should reflect the variation of spatial autocorrelation across the space. 
